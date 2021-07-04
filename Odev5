@@ -9,7 +9,7 @@
 --OFFSET 5
 --LIMIT 5;
 
---ELECT * FROM customer 
+--SELECT * FROM customer 
 --WHERE store_id = 1
 --ORDER BY last_name DESC
 --LIMIT 4;
